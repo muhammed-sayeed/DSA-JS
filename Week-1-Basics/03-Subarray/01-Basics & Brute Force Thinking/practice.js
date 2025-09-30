@@ -1,7 +1,3 @@
-// ===============================
-// Day 1 – Subarray Fundamentals
-// ===============================
-
 // 1️⃣ Generate all subarrays (Brute Force)
 function printSubarrays(arr){
   let n = arr.length;

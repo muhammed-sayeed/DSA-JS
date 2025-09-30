@@ -1,5 +1,3 @@
-# 📅 Day 1 – Subarray Fundamentals
-
 ### 🎯 Goal
 Understand what subarrays are, how to generate them, and how to calculate subarray sums (Brute Force → Prefix Sum).
 
